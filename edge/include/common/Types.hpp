@@ -1,7 +1,7 @@
 // 공통 사용 정의 헤더
 #pragma once
 
-struct ImuAcceleration{
+struct Acceleration{
     double x{};
     double y{};
     double z{};

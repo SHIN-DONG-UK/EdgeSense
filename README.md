@@ -9,7 +9,7 @@
 
 ## 2. 프로젝트 범위
 
-- IMU data acquisition
+- Acceleration data acquisition
 - Edge Computing
 - Edge Communication
 - RMS Analysis
